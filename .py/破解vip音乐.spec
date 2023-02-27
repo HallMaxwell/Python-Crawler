@@ -41,5 +41,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:\\Users\\admin\\Desktop\\1.ico'],
+    icon=['C:\\Users\\admin\\Python-Crawler\\.py\\4.ico'],
 )
